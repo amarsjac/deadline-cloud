@@ -1,3 +1,26 @@
+## 0.49.3 (2024-11-29)
+
+
+### Features
+* allow attachments commands to read openjd path mapping, allow upload with given manifest name and attach metadata (#515) ([`1a0f711`](https://github.com/aws-deadline/deadline-cloud/commit/1a0f711a036001814f5b3b8b5f6a7d5671a03b67))
+* add CLI config clear command (#513) ([`43cd362`](https://github.com/aws-deadline/deadline-cloud/commit/43cd3623f3bb6cd2c0295205fc61f5677975dd51))
+
+### Bug Fixes
+* use description from GUI submitter (#517) ([`f585ca5`](https://github.com/aws-deadline/deadline-cloud/commit/f585ca577afd1ee5e0e140590a43fbbc20262bf7))
+
+## 0.49.2 (2024-11-21)
+
+### Bug Fixes
+* Updated PySide-essentials range. (#511) ([`4f6134e`](https://github.com/aws-deadline/deadline-cloud/commit/4f6134ed50ea7f127316dea754974c2426f34929))
+
+
+## 0.49.1 (2024-11-19)
+
+### Bug Fixes
+* revert: "chore(deps): update pyside6-essentials requirement (#470)" ([`61e5fa1`](https://github.com/aws-deadline/deadline-cloud/commit/61e5fa1bc1101944cc3224179af641961afdc090))
+* revert: "chore(deps): update pyinstaller requirement from ==5.13.* to ==6.11.* (#487)" ([`01b3464`](https://github.com/aws-deadline/deadline-cloud/commit/01b346454e527725130f6e0db3da4264b48e1960))
+
+
 ## 0.49.0 (2024-11-18)
 
 
